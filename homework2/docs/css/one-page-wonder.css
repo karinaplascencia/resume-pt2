@@ -1,0 +1,195 @@
+/*!
+ * Start Bootstrap - One Page Wonder v5.0.8 (https://startbootstrap.com/theme/one-page-wonder)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Acme', sans-serif;
+  font-weight: 800 !important;
+}
+
+/*Header*/
+  /* Nav-bar*/
+.bg-custom {
+  background:linear-gradient(#856b6c, #b7a79e) !important;
+  border: white;
+  border-style: solid;
+}
+
+  /*sf bridge*/
+.intro-and-headshot {
+  position: relative !important; 
+  top: 75px !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../birds-sf-1280x851.jpg");
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+.headshot {
+  width: 25%;
+  min-height: auto;
+  border-radius: 50%;
+  border-width: thick;
+  border-style: solid;
+  border-color: #856b6c;
+  text-align: center;
+}
+
+.intro {
+  margin-top: 20px;
+  color: #747c77;
+  text-align: center;
+  position: relative;
+}
+
+/*index html about me*/
+.p-1 {
+  position: relative;
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
+
+.display-1 {
+  color: #747284  !important;
+  font-size: 36px;
+  position: relative;
+  text-align: left;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+
+.boyle-heights {  
+  width:250px;
+  height: 250px;
+  border-style: solid;
+  border-color: #61585c;
+  margin-top: 50px !important;
+}
+
+
+/*resume html content*/
+.employer {
+  color: #856b6c;
+}
+
+.display-2 {
+  font-size: 30px;
+  color: #747284  !important;
+  position: relative;
+  padding-top: 50px;
+  text-align: left;
+}
+
+.p-2 { 
+  margin-top: 100px !important;
+}
+.p-3 {
+  margin-top: 50px !important;
+}
+
+.CUE-logo-small  {
+  align-content: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+  background-color: whitesmoke;
+  
+}
+
+.p-5 {
+  margin-top: 40px !important;
+}
+
+.apple {
+  align-content: center;
+  width:250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+}
+
+.p-6 {
+  margin-top: 40px !important;
+}
+
+.p-7 { 
+  margin-bottom: 100px !important;
+}
+
+.cal {
+  align-content: center;
+  width:250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+}
+
+
+/*fun facts/experience html content*/
+.display-3 {
+  padding-top: 100px;
+  font-size: 30px;
+  color: #747284  !important;
+  position: relative;
+}
+
+.p-9 {
+  padding-top: 100px;
+}
+
+.cake {
+  width:250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+}
+
+.paintings { 
+  width:250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+}
+
+.running {
+  width:250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+}
+
+.show {
+  width:250px;
+  height: 250px;
+  border-radius: 20% / 20%;
+  border-style: solid;
+  border-color: #61585c;
+}
+
+.p-14 { 
+  margin-bottom: 100px !important;
+}
